@@ -1,0 +1,7 @@
+# CPU: Locked to one core on "Intel(R) Core(TM) i7-4702MQ CPU @ 2.20GHz"
+# Distro: Arch Linux
+# Kernel: 4.14.0
+
+Array of vectors: 2.35ns/item (result = 14.39)
+List of vectors: 2.75ns/item (result = 14.39)
+Vectors of arrays: 1.22ns/item (result = 14.39)
